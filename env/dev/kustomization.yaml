@@ -3,3 +3,9 @@ kind: Kustomization
 
 resources:
 - ../../base
+
+images:
+- name: ghcr.io/argocon-2022-workshop/demo-app
+  newName: ghcr.io/rbreeze/demo-app
+  newTag: 1afef9a
+  
