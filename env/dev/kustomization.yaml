@@ -10,4 +10,4 @@ images:
   newTag: 1afef9a
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/rbreeze/demo-app
-  newTag: 3210162beda86c29a6ec9b21d4e9f7ac1a99d4df
+  newTag: 1f645373db11c8ce6e851565c945ff0f56903b41
